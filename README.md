@@ -1,4 +1,6 @@
 # OneLogin's Java SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fonelogin%2Fonelogin-java-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fonelogin%2Fonelogin-java-sdk?ref=badge_shield)
+
 
 ## Support
 
@@ -494,3 +496,6 @@ But the SDK settings could be provided directly to the constructor, for example:
 
     Client client = new Client("<client_id>", "<client_secret>", "<subdomain>", apiConfiguration, false);
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fonelogin%2Fonelogin-java-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fonelogin%2Fonelogin-java-sdk?ref=badge_large)
